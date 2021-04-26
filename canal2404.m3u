@@ -1,0 +1,376 @@
+#################################################################################CANAIS GLOBO
+
+#EXTM3U
+#EXTINF:-1 tvg-id="Globo" tvg-name="GLOBO TV TEM BAURU" tvg-logo="https://i.imgur.com/2EK2yMM.png" group-title="CANAL | GLOBO",GLOBO HD PBL
+http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Globo Rio" tvg-name="GLOBO Rio HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="CANAL | GLOBO",GLOBO RJ HD
+http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GLOBO HD" tvg-name="GLOBO HD " tvg-logo="https://i.imgur.com/2EK2yMM.png" group-title="CANAL | GLOBO",GLOBO HD 1
+ https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GLOBO HD" tvg-name="GLOBO HD " tvg-logo="https://i.imgur.com/2EK2yMM.png" group-title="CANAL | GLOBO",GLOBO SP 1
+ https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="GLOBO HD " tvg-logo="http://tvonlinehd.net/img/canais/globo.png" group-title="CANAL | GLOBO",GLOBO 01
+https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs1/vintequatrohrs1_2000/index.m3u8
+
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="GLOBO HD " tvg-logo="http://tvonlinehd.net/img/canais/globo.png" group-title="CANAL | GLOBO",GLOBO 02 https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs1/vintequatrohrs1_1000/index.m3u8
+
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="GLOBO HD " tvg-logo="http://tvonlinehd.net/img/canais/globo.png" group-title="CANAL | GLOBO",GLOBO 03 https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs1/vintequatrohrs1_500/index.m3u8
+
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="GLOBO HD " tvg-logo="http://tvonlinehd.net/img/canais/globo.png" group-title="CANAL | GLOBO",GLOBO 04 https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs1/vintequatrohrs1_350/index.m3u8
+
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="GLOBO HD " tvg-logo="http://tvonlinehd.net/img/canais/globo.png" group-title="CANAL | GLOBO",GLOBO 05 https://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="GLOBO HD " tvg-logo="http://tvonlinehd.net/img/canais/globo.png" group-title="CANAL | GLOBO",GLOBO 06 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="GLOBO HD " tvg-logo="http://tvonlinehd.net/img/canais/globo.png" group-title="CANAL | GLOBO",GLOBO 07 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8
+
+#################################################################################CANAIS SBT
+
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBTHD " tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-1.png" group-title="CANAL | SBT",SBT HD
+https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w2067742926_b216000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="SBT HD" tvg-name="SBT HD 2" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-1.png" group-title="CANAL | SBT",SBT HD2
+https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/chunklist_w2050874003.m3u8
+
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://i.imgur.com/cLIdzw6.png" group-title="CANAL | SBT",SBT HD
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1846566125_b216000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://i.imgur.com/cLIdzw6.png" group-title="CANAL | SBT",SBT 
+http://evpp.mm.uol.com.br/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="CANAL | SBT", SBT - TV Jornal (PE)
+http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SBT PÁ" tvg-name="SBT PÁ" tvg-logo="https://listaiptv.gratis/logos/imagens/sbt.png" group-title="CANAL | SBT",SBT TAILÂNDIA PÁ
+ https://5e36c064a2f6a.streamlock.net:1936/8040/8040/playlist.m3u8
+
+EXTINF:-1 tvg-id="SBT" tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="CANAL | SBT",SBT PA
+https://srv-mc.sistemafloresta.com.br/sbt_live/index.m3u8?token=6f0315f72918701a1dec142039e2080e
+
+#EXTINF:-1 tvg-id="SBT SP " tvg-name="SBT HD " tvg-logo="http://tvonlinehd.net/img/canais/sbt.png" group-title="CANAL | SBT", SBT 01
+https://stmv1.transmissaodigital.com/cidadeverde/cidadeverde/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SBT SP" tvg-name="SBT HD " tvg-logo="http://tvonlinehd.net/img/canais/sbt.png" group-title="CANAL | SBT",SBT SP 
+https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SBT HD" tvg-name="SBT HD " tvg-logo="http://tvonlinehd.net/img/canais/sbt.png" group-title="CANAL | SBT",SBT HD 
+https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SBT SÃO PAULO" tvg-name="SBT SÃO PAULO HD " tvg-logo="http://tvonlinehd.net/img/canais/sbt.png" group-title="CANAL | SBT",SBT SÃO PAULO https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w2067742926_b216000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="SBT SÃO PAULO" tvg-name="SBT SÃO PAULO HD " tvg-logo="http://tvonlinehd.net/img/canais/sbt.png" group-title="CANAL | SBT",SBT SÃO PAULO 2 https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w2067742926_b216000_sleng.m3u8
+
+
+#################################################################################CANAIS BAND
+
+#EXTINF:-1 tvg-id="RBA TV" tvg-name="RBA TV" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/df0c35517ab2f2e9e6e63c1808730694.jpg" group-title="CANAL | BAND",RBA TV PÁ
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rba.png" group-title="CANAL | BAND",Band - RBA TV HD(PA)
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BAND  HD" tvg-name="BAND HD" tvg-logo="https://listaiptvbrasil.com/logo/band.png" group-title="CANAL | BAND",BAND HD
+http://p2stv.me:80/live/1662/1234/7484.m3u8
+
+#EXTINF:-1 tvg-id="BAND" tvg-name="BAND HD" tvg-logo="https://listaiptvbrasil.com/logo/band.png" group-title="CANAL | BAND",BAND HD
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Band" tvg-name="BAND" tvg-logo="https://i.imgur.com/Fh4SQ6L.png" group-title="CANAL | BAND",BAND
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/chunklist_w16814077.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/band.png" group-title="CANAL | BAND",Band
+http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BAND SP" tvg-name="BAND SP HD " tvg-logo="http://tvonlinehd.net/img/canais/band.png" group-title="CANAL | BAND",BAND SP
+ https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist-480p.m3u8?PlaylistM3UCL
+
+#################################################################################CANAIS RECORD 
+
+#EXTINF:-1 tvg-id="RECORD HD" tvg-name="RECORD HD2 " tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group-title="CANAL | RECORD",RECORD HD2
+https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/index_480_av-b.m3u8
+
+#EXTINF:-1 tvg-id="RECORD HD2" tvg-name="RECORD HD2" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/10/Logotipo_da_Record.png" group-title="CANAL | RECORD",RECORD HD2
+ https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/master.m3u8
+
+#EXTINF:-1 tvg-id="Record TV" tvg-name="RECORD" tvg-logo="https://i.imgur.com/UhnTnPe.png" group-title="CANAL | RECORD",RECORD TV 
+http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_360_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="CANAL | RECORD", RecordTV
+https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="CANAL | RECORD", RecordTV Rio de Janeiro
+https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="CANAL | RECORD", RecordTV Brasília
+https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="CANAL | RECORD", RecordTV Pará
+https://playpluspa-lh.akamaihd.net/i/pp_pa@377468/master.m3u8
+
+################################################################################CANAIS REDE TV
+
+#EXTINF:-1 tvg-id="REDE TVHD" tvg-name="REDE TV HD" tvg-logo="http://i.imgur.com/9APWST2.png" group-title="CANAL | REDE TV",REDETV
+ https://hls.brasilstream.com.br/live/redetves/redetves/mono.m3u8?token=6410329353875642000
+
+#EXTINF:-1 tvg-id="REDE TV HD" tvg-name="REDE TV" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/b0baf19518fb782525c37b40c2f5d9b5.png" group-title="CANAL | REDE TV",REDE TV SP HD2
+https://hls.brasilstream.com.br/live/redetves/redetves/mono.m3u8?token=6410329353875642000
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/arapuam.png" group-title="CANAL | REDE TV", RedeTV! TV Arapuan HD (PB)
+https://5b7f3c45ab7c2.streamlock.net/tvarapuan/ngrp:tvarapuan/playlist.m3u8?DVR
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/pampa.png" group-title="CANAL | REDE TV", TV Pampa - RedeTV! RS
+https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/redetvtocantins.png" group-title="CANAL | REDE TV", RedeTV! Tocantins
+https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m3u8
+
+##################################################CANAIS CULTURA
+
+#EXTINF:-1 tvg-id="CULTAURA PÁ " tvg-name="CULTURA PÁ HD " tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/5c2f7367afcbeb90c88e3904aa148569.png" group-title="CANAL | CULTURA",CULTURA PÁ
+http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/nova.png" group-title="CANAL | CULTURA", TV Nova Nordeste - Cultura (PE)
+http://cdn.comets.com.br/tvnovanordeste/aovivo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tve.jpg" group-title="CANAL | CULTURA", TVE Bahia
+http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/1180px-cultura_logo_2013.svg_.png" group-title="CANAL | CULTURA", TV Cultura - TV Futuro (RJ)
+https://streaming03.zas.media/tvfuturo/tvfuturo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvnovacultura.png" group-title="CANAL | CULTURA", Cultura - Nova Nordeste (PE)
+https://live.comets.com.br/tvnovanordeste/aovivo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/culturapara.png" group-title="CANAL | CULTURA", Cultura Pará HD
+http://str.portalcultura.com.br/funtelpa/tv_funtelpa/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvmaceio.jpg" group-title="CANAL | CULTURA",TV Maceió (AL)
+https://59f1cbe63db89.streamlock.net:1443/toptv/toptv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tvfaap.png" group-title="CANAL | CULTURA",TV Faap
+http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/catve.png" group-title="CANAL | CULTURA",Catve - Cultura (PR)
+https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w125430112.m3u8
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/logo_redeparanaeducativa.png" group-title="CANAL | CULTURA",Paraná Turismo
+http://200.189.113.201/hls/tve.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rede-minas-original.jpg" group-title="CANAL | CULTURA", Rede Minas
+https://v4-slbps-sambavideos.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf990662f5b4f8e1%3Bbase64np%3BMc8VDxqNjXKCAf8%21/amlst%3AMc_tFgfGiHOdQXPB/chunklist_.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/200px-logotipo_da_tv_brasil.png" group-title="CANAL | CULTURA", TV Brasil 2
+https://tvbrasil-stream.ebc.com.br/STsEBCLIVE_240/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/logo-tve-png.png" group-title="CANAL | CULTURA", TVE RS
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+
+#EXTINF:-1 tvg-id="tv bons tempos" tvg-name="tv bons tempos HD " tvg-logo="https://1.bp.blogspot.com/-d-mnTNCYp_I/X77N431tLcI/AAAAAAAAD28/BGqvxaVveZQtW-eArJwOuarVS2YEQ5kZACLcBGAsYHQ/s0/BONS%2BTEMPOS%2BTV.png" group-title="CANAL | CULTURA",Tv bons tempos https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/playlist.m3u8
+
+#################################################################################BBB21
+
+
+#EXTINF:-1 tvg-id="BBB 21" tvg-name="BBB 21HD " tvg-logo="https://bit.ly/3a4F45P" group-title="CANAL | BBB21",BBB 24 HRS
+https://newedge.eu-central-1.edge.mycdn.live/live/bbb24hras/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BBB 21" tvg-name="BBB 21HD " tvg-logo="https://bit.ly/3a4F45P" group-title="CANAL | BBB21",BBB 21 CMR 02
+https://newedge.eu-central-1.edge.mycdn.live/live/bbb24hras/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BBB 21" tvg-name="BBB 21HD " tvg-logo="https://bit.ly/3a4F45P" group-title="CANAL | BBB21",BBB 21 CMR 01
+https://newedge.eu-central-1.edge.mycdn.live/live/bbb24hras/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BBB 21 " tvg-name="bbb HD " tvg-logo="https://bit.ly/3a4F45P" group-title="CANAL | BBB21", BBB 21 CMR 03
+ https://newedge.eu-central-1.edge.mycdn.live/live/bbb24hras/bbb24hras_2000/index.m3u8
+
+#EXTINF:-1 tvg-id="BBB 21 " tvg-name="bbb HD " tvg-logo="https://bit.ly/3a4F45P" group-title="CANAL | BBB21", BBB 21 CMR 04
+ https://newedge.eu-central-1.edge.mycdn.live/live/bbb24hras/bbb24hras_1000/index.m3u8
+
+#EXTINF:-1 tvg-id="BBB 21 " tvg-name="bbb HD " tvg-logo="https://bit.ly/3a4F45P" group-title="CANAL | BBB21", BBB 21 CMR 05
+ https://newedge.eu-central-1.edge.mycdn.live/live/bbb24hras/bbb24hras_500/index.m3u8
+
+#EXTINF:-1 tvg-id="BBB 21 " tvg-name="bbb HD " tvg-logo="https://bit.ly/3a4F45P" group-title="CANAL | BBB21", BBB 21 CMR 06
+ https://newedge.eu-central-1.edge.mycdn.live/live/bbb24hras/bbb24hras_350/index.m3u8
+
+
+################################################################################# CANAIS PREMIERE
+
+#EXITM3U
+#EXTINF:-1 tvg-id="Premiere" tvg-name="Premiere HD " tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="CANAIS | PREMIÈRE",Premiere 01 SD
+https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Premiere" tvg-name="Premiere HD " tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="CANAIS | PREMIÈRE", première 2 SD
+https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Premiere" tvg-name="Premiere HD " tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="CANAIS | PREMIÈRE", PREMIERE 3SD 
+https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Premiere" tvg-name="Premiere HD " tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="CANAIS | PREMIÈRE", PREMIÈRE 4SD https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Premiere" tvg-name="Premiere HD " tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="CANAIS | PREMIÈRE",Premiere 5SD
+https://newedge.eu-central-1.edge.mycdn.live/live/esportes4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Premiere" tvg-name="Premiere HD " tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="CANAIS | PREMIÈRE",premiere 6 SD
+https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Premiere" tvg-name="Premiere HD " tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="CANAIS | PREMIÈRE",premiere 7 SD
+https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Premiere" tvg-name="Premiere HD " tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="CANAIS | PREMIÈRE", Premiere 8SD
+https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Premiere" tvg-name="Premiere HD " tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="CANAIS | PREMIÈRE", Premiere 9SD
+https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Premiere" tvg-name="Premiere HD " tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="CANAIS | PREMIÈRE",Premiere
+ https://newedge.eu-central-1.edge.mycdn.live/live/esportes3/playlist.m3u8
+
+#################################################################################ESPORTE 
+
+#EXTINF:-1 tvg-id="Fox Sports 2" tvg-name="FOX SPORTS 2 4K" tvg-logo="https://seeklogo.com/images/F/fox-sports-2-logo-876FE0A3C1-seeklogo.com.png" group-title="CANAIS | ESPORTE",FOX SPORTS 2
+https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Band Sports" tvg-logo="https://pbs.twimg.com/profile_images/1056593228546404352/kNo3jrRg_400x400.jpg" group-title="CANAIS | ESPORTE",BAND SPORTS
+https://evpp.mm.uol.com.br/geob_band/bandsports/chunklist_w1866925157.m3u8
+
+#EXTINF:-1 tvg-id="FOX SPORT" tvg-name="FOX SPORT " tvg-logo="https://bit.ly/329o4H2" group-title="CANAIS | ESPORTE",FOX SPORT 01
+https://www.livedoomovies.com/02_foxsport_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="TNT  HD" tvg-name="TNT HD" tvg-logo="https://bit.ly/2QcXb2o" group-title="CANAIS | ESPORTE",TNT HD
+https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/BandSports_logo.svg/1200px-BandSports_logo.svg.png" group-title="CANAIS | ESPORTE",BAND SPORTS HD
+https://nxplay-srv1.nxplay.com.br/BAND_SPORTS/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="FOX" tvg-name="FOX HD " tvg-logo="https://bit.ly/329o4H2" group-title="CANAIS | ESPORTE",FOX SPORTS 3
+ https://newedge.eu-central-1.edge.mycdn.live/live/esportes3/esportes3_2000/index.m3u8
+
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT HD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_%282017%29.png" group-title="CANAIS | ESPORTE",TNT
+https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DAZN" tvg-name="DAZN HD " tvg-logo="https://bit.ly/3d6ouVc" group-title="CANAIS | ESPORTE",DAZN
+https://newedge.eu-central-1.edge.mycdn.live/live/esportes4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CONMEBOL" tvg-name="CONMEBOL HD " tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-1.png" group-title="CANAIS | ESPORTE",CONMEBOL 01
+ https://newedge.eu-central-1.edge.mycdn.live/live/esportes4/esportes4_2000/index.m3u8
+
+#EXTINF:-1 tvg-id="CONMEBOL" tvg-name="CONMEBOL HD " tvg-logo="https://logodownload.org/wp-content/uploads/2019/12/conmebol-logo-1.png" group-title="CANAIS | ESPORTE",CONMEBOL 02 
+https://newedge.eu-central-1.edge.mycdn.live/live/esportes5/esportes5_2000/index.m3u8
+
+#################################################################################sportv
+
+#EXTINF:-1 tvg-id="SPORTV" tvg-name="SPORTV HD " tvg-logo="https://bit.ly/3dT8wgd" group-title="CANAIS | SPORTV",SPORTV 01
+ https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs2_2000/index.m3u8
+
+#EXTINF:-1 tvg-id="SPORTV" tvg-name="SPORTV HD " tvg-logo="https://bit.ly/3dT8wgd" group-title="CANAIS | SPORTV",SPORTV 02
+ https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs2_1000/index.m3u8
+
+#EXTINF:-1 tvg-id="SPORTV" tvg-name="SPORTV HD " tvg-logo="https://bit.ly/3dT8wgd" group-title="CANAIS | SPORTV",SPORTV 03
+ https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs2_500/index.m3u8
+
+#EXTINF:-1 tvg-id="SPORTV" tvg-name="SPORTV HD " tvg-logo="https://bit.ly/3dT8wgd" group-title="CANAIS | SPORTV",SPORTV 04
+ https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/vintequatrohrs2_350/index.m3u8
+
+#EXTINF:-1 tvg-id="sportv" tvg-name="sportv HD " tvg-logo="https://bit.ly/3dT8wgd" group-title="CANAIS | SPORTV",SPORTV 05
+ https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="sportv" tvg-name="soprtv HD " tvg-logo="https://bit.ly/3dT8wgd" group-title="CANAIS | SPORTV",SPORTV 06
+https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SPORTV" tvg-name="SPORTV HD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/SporTV_logo_2016.png/1200px-SporTV_logo_2016.png" group-title="CANAIS | SPORTV",sportv HD
+ https://newedge.eu-central-1.edge.mycdn.live/live/esportes22/playlist.m3u8
+
+#EXTINF:-1 tvg-id="sportv" tvg-name="sportv HD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/SporTV_logo_2016.png/1200px-SporTV_logo_2016.png" group-title="CANAIS | SPORTV",sportv HD 2
+ https://newedge.eu-central-1.edge.mycdn.live/live/esportes10/playlist.m3u8
+
+#################################################################################espn
+
+#EXTINF:-1 tvg-id="Espnbrasil.br" tvg-name="ESPN BRASIL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Logo_espnbrasil.png" group-title="CANAIS | ESPN",ESPN BRASIL HD
+https://playplusespn-lh.akamaihd.net:443/i/pp_espnbra@374460/index_720_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="Espn.br" tvg-name="ESPN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Logo_espnbrasil.png" group-title="CANAIS | ESPN",ESPN HD
+https://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_720_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="ESPN+.br" tvg-name="ESPN2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Logo_espnbrasil.png" group-title="CANAIS | ESPN",ESPN2 HD
+https://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/index_720_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="Espnextra.br" tvg-name="ESPN EXTRA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/Logo_espnbrasil.png" group-title="CANAIS | ESPN",ESPN EXTRA HD
+https://playplusespn-lh.akamaihd.net/i/pp_espnext@374460/index_720_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="ESPN Brasil" tvg-logo="https://i.imgur.com/FW12yr4.png" group-title="CANAIS | ESPN",ESPN BRASIL HD
+https://playplusespn-lh.akamaihd.net/i/pp_espnext@374460/index_720_av-p.m3u8
+
+#EXTINF:-1 tvg-id="ESPN Brasil" tvg-logo="https://i.imgur.com/FW12yr4.png" group-title="CANAIS | ESPN",ESPN BRASIL
+https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs5/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ESPN" tvg-logo="https://i.imgur.com/FW12yr4.png" group-title="CANAIS | ESPN",ESPN HD
+https://playplusespn-lh.akamaihd.net/i/pp_espn@374460/master.m3u8
+
+#EXTINF:-1 tvg-id="ESPN" tvg-logo="https://i.imgur.com/FW12yr4.png" group-title="CANAIS | ESPN",ESPN
+http://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_360_av-b.m3u8
+
+#EXTINF:-1 tvg-id="ESPN +" tvg-logo="https://i.imgur.com/FW12yr4.png" group-title="CANAIS | ESPN",ESPN 2 HD
+http://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/index_720_av-p.m3u8
+
+#EXTINF:-1 tvg-id="ESPN +" tvg-logo="https://i.imgur.com/FW12yr4.png" group-title="CANAIS | ESPN",ESPN
+http://playplusespn-lh.akamaihd.net/i/pp_espnmais@374460/index_360_av-b.m3u8
+
+#EXTINF:-1 tvg-id="ESPN Extra" tvg-logo="https://i.imgur.com/FW12yr4.png" group-title="CANAIS | ESPN",ESPN EXTRA HD
+http://playplusespn-lh.akamaihd.net/i/pp_espnext@374460/index_720_av-p.m3u8
+
+#EXTINF:-1 tvg-id="ESPN Extra" tvg-logo="https://i.imgur.com/FW12yr4.png" group-title="CANAIS | ESPN",ESPN EXTRA
+http://playplusespn-lh.akamaihd.net/i/pp_espnext@374460/index_360_av-b.m3u8
+
+#################################################################################INFANTIL
+
+#EXTINF:-1 tvg-id="Boomerang" tvg-logo="https://i.imgur.com/x33MwPN.png" group-title="CANAL | INFANTIL",RETRO CARTOON (Desenhos Antigos)
+https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
+
+#EXTINF:-1 tvg-id="Disney XD" tvg-logo="https://i.imgur.com/PLSvqhN.jpg" group-title="CANAL | INFANTIL",DISNEY XD HD
+http://playplusdisney-lh.akamaihd.net/i/pp_dsneyxd@376337/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="Disney XD" tvg-logo="https://i.imgur.com/PLSvqhN.jpg" group-title="CANAL | INFANTIL",DISNEY XD (Cortesia)
+http://playplusdisney-lh.akamaihd.net/i/pp_dsneyxd@376337/index_360_av-b.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="Disney Channel" tvg-logo="https://i.imgur.com/ZgkjyhQ.png" group-title="CANAL | INFANTIL",DISNEY CHANNEL HD
+http://playplusdisney-lh.akamaihd.net/i/pp_dsneych@376337/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="Disney Channel" tvg-logo="https://i.imgur.com/ZgkjyhQ.png" group-title="CANAL | INFANTIL",DISNEY CHANNEL
+http://playplusdisney-lh.akamaihd.net/i/pp_dsneych@376337/index_360_av-b.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="Disney Junior" tvg-logo="https://i.imgur.com/8F7awsP.jpg" group-title="CANAL | INFANTIL",DISNEY JR HD 
+http://playplusdisney-lh.akamaihd.net/i/pp_dsneyjr@376337/index_720_av-p.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="Disney Junior" tvg-logo="https://i.imgur.com/8F7awsP.jpg" group-title="CANAL | INFANTIL",DISNEY JR 
+http://playplusdisney-lh.akamaihd.net/i/pp_dsneyjr@376337/index_360_av-b.m3u8?PEDROJUNIORTUTORIAIS
+
+
+#EXTINF:-1 tvg-id="3ABN KIDS" tvg-logo="https://i.imgur.com/rg5j9my.jpg" group-title="CANAL | INFANTIL",3ABN KIDS
+https://moiptvhls-i.akamaihd.net/hls/live/652318-b/secure/SQs/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="CORTOOW" tvg-name="CORTOOW HD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/800px-Cartoon_Network_2010_logo.svg.png" group-title="CANAL | INFANTIL",CORTOOW 01
+https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
+
+#EXTINF:-1 tvg-id="BOMS TEMPOS TV " tvg-name="BOMS TEMPOS TV HD " tvg-logo="https://bit.ly/3s9HOoK" group-title="CANAL | INFANTIL",BOM TEMPOS TV
+https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RETRO" tvg-name="RETRO HD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/800px-Cartoon_Network_2010_logo.svg.png" group-title="CANAL | INFANTIL",RETRO
+https://stmv1.srvstm.com/cartoonr2/cartoonr2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CORTOOW" tvg-name="CORTOOW HD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/800px-Cartoon_Network_2010_logo.svg.png" group-title="CANAL | INFANTIL",CORTOOW
+https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
+
+#EXTINF:-1 tvg-id="PLUTO TV" tvg-name="PLUTO TV HD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Pluto_TV_2020_logo.png" group-title="CANAL | INFANTIL",PLUTO TV https://bit.ly/32zE1Xx
+
+#EXTINF:-1 tvg-id="DISNEY CHANNEL" tvg-name="DISNEY CHANNEL HD " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/Disney_channel_2019.png" group-title="CANAL | INFANTIL", DISNEY CHANNEL PBL 
+https://playplusdisney-lh.akamaihd.net/i/pp_dsneych@376337/index_720_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="DISNEY JUNIOR" tvg-name="DISNEY JUNIOR HD " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThfyrY2ZRu0DyGVe3r-3X4-QFgMcGtXDanTQ&usqp=CAU" group-title="CANAL | INFANTIL", DISNEY JUNIOR:
+ https://playplusdisney-lh.akamaihd.net/i/pp_dsneyjr@376337/index_720_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="PLUTO TV KINDS" tvg-name="PLUTO TV KINDS HD " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQswSaIrrZDu1Mm4jaz_r2d0Dd0ACD7hMeFHQ&usqp=CAU" group-title="CANAL | INFANTIL",PLUTO TV KINDS
+ https://bit.ly/2QNtlle
+
+￼
+
+
